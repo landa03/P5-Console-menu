@@ -1,0 +1,11 @@
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.exe
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.deps.json
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.runtimeconfig.json
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.runtimeconfig.dev.json
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.dll
+D:\escuela\progra\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.pdb
+D:\escuela\progra\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.csprojAssemblyReference.cache
+D:\escuela\progra\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.AssemblyInfoInputs.cache
+D:\escuela\progra\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.AssemblyInfo.cs
+D:\escuela\progra\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.dll
+D:\escuela\progra\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.pdb
